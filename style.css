@@ -1,0 +1,26 @@
+.div1{
+  position:relative;
+  float:right;
+  background-color: #848484;
+  height: 151px;
+  width:380px;
+  top: 193px;
+  right:-157px;
+  color:white;
+  font-size: 60px;
+  text-align: center;
+  font-family: Roboto Slab;
+}
+.div2{
+  position:relative;
+  float:right;
+  background-color: white;
+  height: 165px;
+  width: 195px;
+  top: 0px;
+  right:151px;
+  color:black;
+  font-size: 32px;
+  text-align: center;
+  font-family: Roboto Slab;
+}
